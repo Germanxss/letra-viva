@@ -29,9 +29,12 @@ letra-viva/
 │   └── patrones/           Motivos decorativos de las portadas
 ├── fonts/                  Tipografías Lora e Inter (.woff2)
 └── docs/
-    ├── documentacion.pdf   Documentación del proyecto
-    └── video-validacion.mp4
+    └── documentacion.pdf   Documentación del proyecto
 ```
+
+## Video de validación
+
+https://youtu.be/msi-Jd10GaI
 
 ## Funcionalidades
 
